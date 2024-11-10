@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ХРАЗ: Конфasdвфывфывфывфывфывфывфывфыфывфывфыasdasdsadывфывфывфывфывфывфывфывфыв
+ХРАЗ: Конфsadsadsadвфывфыфывфывфыasdasdsadывфывфывфывфывфывфывфывфыв
 
 import string
 import secrets
