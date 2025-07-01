@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ХРАЗ: 4747894jubyhiguyigbhij
+ХРАЗ: jnujhniuiuonojk
 
 import string
 import secrets
